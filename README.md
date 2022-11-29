@@ -1,3 +1,6 @@
+![Profile views](https://gpvc.arturio.dev/fadwa2022)
+
+
 - 👋 Hi, I’m @abderrahmaneelhamel
 
 - 🌱 I’m currently learning web development
